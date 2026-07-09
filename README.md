@@ -6,6 +6,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/tanay330/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanay330/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/tanay330/leetcode-solutions/tree/master/0724-find-pivot-index) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -26,4 +27,5 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tanay330/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/tanay330/leetcode-solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
