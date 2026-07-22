@@ -9,6 +9,7 @@
 | [0053-maximum-subarray](https://github.com/tanay330/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/tanay330/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanay330/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/tanay330/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/tanay330/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/tanay330/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanay330/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tanay330/leetcode-solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/tanay330/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/tanay330/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanay330/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -50,4 +52,5 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tanay330/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/tanay330/leetcode-solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
