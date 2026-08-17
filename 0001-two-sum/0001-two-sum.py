@@ -1,13 +1,17 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-    
-        seen = {}
 
-        for i, num in enumerate(nums):
-            diff = target - num
+        dicti={}
 
-            if diff in seen:
-                return [seen[diff], i]
+        for i in range(len(nums)):
+            complement=target-nums[i]
+            if complement in dicti:
+                return [dicti[complement],i]
 
-            seen[num] = i
+            
+            else:
+                dicti[nums[i]]=i
+
+
+
         
