@@ -16,6 +16,7 @@
 | [0268-missing-number](https://github.com/tanay330/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tanay330/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/tanay330/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/tanay330/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tanay330/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/tanay330/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/tanay330/leetcode-solutions/tree/master/0877-stone-game) |
@@ -35,6 +36,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/tanay330/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/tanay330/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tanay330/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/tanay330/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sliding Window
 |  |
 | ------- |
