@@ -14,6 +14,7 @@
 | [0217-contains-duplicate](https://github.com/tanay330/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tanay330/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tanay330/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/tanay330/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/tanay330/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/tanay330/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/tanay330/leetcode-solutions/tree/master/0877-stone-game) |
@@ -32,6 +33,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tanay330/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/tanay330/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/tanay330/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | [0075-sort-colors](https://github.com/tanay330/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/tanay330/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tanay330/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/tanay330/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +72,7 @@
 | ------- |
 | [0136-single-number](https://github.com/tanay330/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/tanay330/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/tanay330/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -84,4 +88,12 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/tanay330/leetcode-solutions/tree/master/0877-stone-game) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/tanay330/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/tanay330/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
