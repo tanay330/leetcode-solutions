@@ -24,6 +24,7 @@
 | [0724-find-pivot-index](https://github.com/tanay330/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/tanay330/leetcode-solutions/tree/master/0877-stone-game) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanay330/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/tanay330/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,4 +111,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/tanay330/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## String
+|  |
+| ------- |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/tanay330/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+## Counting
+|  |
+| ------- |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/tanay330/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 <!---LeetCode Topics End-->
