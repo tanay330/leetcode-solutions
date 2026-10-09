@@ -62,6 +62,7 @@
 | [0219-contains-duplicate-ii](https://github.com/tanay330/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/tanay330/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanay330/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/tanay330/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/tanay330/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanay330/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -114,9 +115,15 @@
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/tanay330/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/tanay330/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/tanay330/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/tanay330/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/tanay330/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
