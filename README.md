@@ -93,6 +93,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/tanay330/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/tanay330/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/tanay330/leetcode-solutions/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/tanay330/leetcode-solutions/tree/master/0877-stone-game) |
