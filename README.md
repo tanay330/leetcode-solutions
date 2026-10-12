@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tanay330/leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/tanay330/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/tanay330/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanay330/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/tanay330/leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -117,6 +118,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/tanay330/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tanay330/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanay330/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/tanay330/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -129,4 +131,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tanay330/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/tanay330/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
