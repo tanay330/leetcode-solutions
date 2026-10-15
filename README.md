@@ -15,6 +15,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/tanay330/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/tanay330/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tanay330/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/tanay330/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/tanay330/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tanay330/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/tanay330/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -61,6 +62,7 @@
 | [0001-two-sum](https://github.com/tanay330/leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/tanay330/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tanay330/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/tanay330/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/tanay330/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanay330/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanay330/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -83,6 +85,7 @@
 | [0015-3sum](https://github.com/tanay330/leetcode-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/tanay330/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/tanay330/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/tanay330/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/tanay330/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanay330/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
@@ -126,6 +129,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/tanay330/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanay330/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/tanay330/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Queue
@@ -144,4 +148,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanay330/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/tanay330/leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
