@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/tanay330/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/tanay330/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/tanay330/leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/tanay330/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanay330/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/tanay330/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/tanay330/leetcode-solutions/tree/master/0056-merge-intervals) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tanay330/leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/tanay330/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanay330/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/tanay330/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/tanay330/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tanay330/leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/tanay330/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/tanay330/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/tanay330/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/tanay330/leetcode-solutions/tree/master/0217-contains-duplicate) |
